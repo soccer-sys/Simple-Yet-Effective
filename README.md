@@ -1,3 +1,3 @@
 # Steven Cardenas repository
-Skill Foundry Business Code Samples
+Skill Foundry Business Code Sample
 yes
