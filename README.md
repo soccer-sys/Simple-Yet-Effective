@@ -27,7 +27,7 @@ The Guardian
 +3
 The Guardian
 +3
-
+https://www.bing.com/th/id/OIP.G8aDXw1WEzEunZHI-3d9iQHaEK?w=245&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2
 Global Summits and Collaborations
 
 World Sustainable Development Summit 2025: Scheduled from March 5–7, 2025, in New Delhi, India, this summit focuses on partnerships for accelerating sustainable development and climate solutions, bringing together global leaders and experts. ​
