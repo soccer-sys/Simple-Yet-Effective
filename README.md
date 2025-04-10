@@ -1,6 +1,9 @@
-# Steven Cardenas repository
-Skill Foundry Business Code Sample
-yes
+Understood
+Building An Eternal Empire
+Nature and Humanity Coexisting One Step At A Time
+Why is nature so Important?
+Get to know the leaders involved.
+Become A member of this universe determined to pave the path for a better, more sustainable world
 Welcome. Are you ready to change the world
 Environmental Initiatives
 
