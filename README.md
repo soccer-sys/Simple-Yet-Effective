@@ -4,41 +4,82 @@ Nature and Humanity Coexisting One Step At A Time
 Why is nature so Important?
 Get to know the leaders involved.
 Become A member of this universe determined to pave the path for a better, more sustainable world
-Welcome. Are you ready to change the world
-Environmental Initiatives
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Climate Change Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f3f4f6;
+      color: #333;
+      margin: 20px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .section {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 400px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌍 Climate Change Dashboard</h1>
 
-B Corp's Enhanced Standards: The B Corp movement has introduced stricter environmental and social standards for its 9,600 certified businesses. The new framework mandates compliance across seven areas, including climate action and human rights, aiming to set a higher benchmark for corporate responsibility. ​
-Latest news & breaking headlines
+  <div class="section">
+    <h2>📊 Key Datasets</h2>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/HadCRUT" target="_blank">HadCRUT: Global Temperature Dataset</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Global_Historical_Climatology_Network" target="_blank">GHCN: Historical Climate Network</a></li>
+      <li><a href="https://www.epa.gov/climate-indicators" target="_blank">EPA Climate Change Indicators</a></li>
+      <li><a href="https://datahub.io/collections/climate-change" target="_blank">DataHub Climate Change Collection</a></li>
+    </ul>
+  </div>
 
-Rainforest Alliance's Regenerative Agriculture Goals: Santiago Gowland, CEO of Rainforest Alliance, emphasizes the need for regenerative agriculture to combat climate change and land degradation. The organization aims to support 100 million farmers in transitioning to regenerative practices by 2030. ​
-Reuters
+  <div class="section">
+    <h2>📈 Interactive Global CO₂ Emissions Chart</h2>
+    <!-- Embedding a live CO2 emissions chart from Our World in Data -->
+    <iframe src="https://ourworldindata.org/grapher/co2-emissions?tab=chart&time=1800..latest" title="CO2 Emissions Chart"></iframe>
+  </div>
 
-Earthshot Prize 2025 in Rio de Janeiro: Prince William announced that the 2025 Earthshot Prize Awards will be held in Rio de Janeiro, Brazil. This initiative rewards innovative environmental solutions across five categories, including nature restoration and climate action. ​
-InStyle
+  <div class="section">
+    <h2>🌡️ Recent Climate News Highlights</h2>
+    <ul>
+      <li><a href="https://www.couriermail.com.au/news/queensland/noosa/hyperlocal/record-heat-and-torrential-rain-shake-up-autumn/news-story/de9682dadff831759ddb290ef283c16f" target="_blank">Australia Records Hottest March (2025)</a></li>
+      <li><a href="https://www.axios.com/2025/04/09/american-climate-change-anxiety-map" target="_blank">Map of Climate Anxiety in the U.S.</a></li>
+      <li><a href="https://www.reuters.com/sustainability/cop/white-house-moves-hamstring-national-climate-assessment-2025-04-10/" target="_blank">Policy Concerns on U.S. Climate Assessment</a></li>
+      <li><a href="https://www.businessinsider.com/moving-north-midwestern-snowbelt-becoming-new-sunbelt-2025-4" target="_blank">Climate Migration to Snowbelt States</a></li>
+    </ul>
+  </div>
 
-Legal Actions for Climate Justice
+  <div class="section">
+    <h2>🧰 Developer Tools & APIs</h2>
+    <ul>
+      <li><a href="https://www.datacamp.com/tutorial/visualizing-climate-change-data-with-ggplot2" target="_blank">Tutorial: Visualizing Climate Change in R (ggplot2)</a></li>
+      <li><a href="https://plotly.com/javascript/" target="_blank">Plotly.js – Interactive JavaScript Charts</a></li>
+      <li><a href="https://d3js.org/" target="_blank">D3.js – Data-Driven Documents</a></li>
+    </ul>
+  </div>
 
-Monica Feria-Tinta's Climate Litigation: UK-based barrister Monica Feria-Tinta is leveraging international human rights law to challenge governmental and corporate inaction on climate issues. Her work includes a landmark UN case establishing that failure to act against climate change can violate human rights. ​
-The Guardian
-
-Community and Tourism Initiatives
-
-Positive Community Tourism: The Guardian is inviting readers to share experiences of tourism initiatives that have positively impacted local communities, such as locally owned lodges and conservation projects. ​
-The Guardian
-+3
-The Guardian
-+3
-The Guardian
-+3
-https://www.bing.com/th/id/OIP.G8aDXw1WEzEunZHI-3d9iQHaEK?w=245&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2
-Global Summits and Collaborations
-
-World Sustainable Development Summit 2025: Scheduled from March 5–7, 2025, in New Delhi, India, this summit focuses on partnerships for accelerating sustainable development and climate solutions, bringing together global leaders and experts. ​
-Wikipedia
-
-Good News Platforms
-
-Global Good News: A platform dedicated to sharing uplifting stories, such as the near doubling of the eastern monarch butterfly population in 2025 and the transformation of disused railway lines into green spaces in Paris. ​
-Global Good News
-https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-play-gradient-lightstrip-75-inch/046677560423
-Good News English: This source highlights positive developments like Pakistan's acceleration towards electric vehicles and Syria hosting its first international tech conference in 50 years. 
+  <footer style="text-align:center; padding: 20px; font-size: 0.9em;">
+    © 2025 ClimateChangeData | All sources credited to original providers
+  </footer>
+</body>
+</html>
