@@ -10,6 +10,6 @@ Teaming up with the powers of positivity, cooperation, and patience, I am willin
 
 
 OUR MISSION: Through the acts of kindness, inspiration, or help of the participants of this site, positivy and purpose is found in order to better the lives of those who are in need and those who will pave the next generation.
-Here is the link to a positive, inspirational mindset. 
-
+Here is the link to a positive, inspirational mindset: 
+https://soccer-sys.github.io/undiscovered/
    
