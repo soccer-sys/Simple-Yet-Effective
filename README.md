@@ -1,4 +1,6 @@
-Nurture.Co
+FlipSide
+
+
 With love, understanding, selflessness, and postitvity, we can and we will reach things that seem impossible. 
 My Truth: One smile at a time, one win at a time, and huge changes that will last forever.
 My name is Steven Cardenas and I believe that even the smallest voices have the potential to make a huge impact and save what humanity really stands for. Progression, care, understanding, and compassion. And that the best competition is curiosity as it encourages to grow, learn, and change.
